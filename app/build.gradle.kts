@@ -44,4 +44,7 @@ dependencies {
     testImplementation("junit:junit:4.13.2")
     androidTestImplementation("androidx.test.ext:junit:1.1.5")
     androidTestImplementation("androidx.test.espresso:espresso-core:3.5.1")
+
+    // Using 3rd party libraries
+    implementation("io.github.gautamchibde:audiovisualizer:2.2.5")
 }
